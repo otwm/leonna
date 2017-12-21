@@ -1,0 +1,9 @@
+{
+  "name": "leonna",
+  "dependencies": {
+    "express": "registry:dt/express#4.0.0+20170118060322"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170213133316"
+  }
+}
